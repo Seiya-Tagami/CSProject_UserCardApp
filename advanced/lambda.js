@@ -82,5 +82,5 @@ let employee3 = new Employee('Duan', 'Moreno', 'Teacher', 'Working with children
 
 let employees = [employee1, employee2, employee3];
 
-// !配列employeesのそれぞれの要素に対してmapメソッドを使用します。
+// use map method to each item of employees
 employees.map((employee) => profileDiv.append(createEmployeeCard(employee)));
