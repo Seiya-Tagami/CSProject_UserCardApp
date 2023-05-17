@@ -1,1 +1,1 @@
-# CSProject_UserCardApp
+# Motivational Speech Wallpaper Generator
